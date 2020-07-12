@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3981153427711379328}
+  - component: {fileID: 4858706568634554173}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -30,3 +31,50 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4858706568634554173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9054742409271405681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d1a2dcfeb4ceb4db59794588a49119, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Enum:
+    m_TypeName: Hoge, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_Names: C
+    m_IsAll: 0
+  m_dic:
+    m_DefaultKey:
+      m_TypeName: Huga, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      m_Names: -1
+      m_IsAll: 1
+    m_NewKey:
+      m_TypeName: 
+      m_Names: 
+      m_IsAll: 0
+    m_Keys:
+    - m_TypeName: Huga, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      m_Names: A
+      m_IsAll: 0
+    - m_TypeName: Huga, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      m_Names: B
+      m_IsAll: 0
+    - m_TypeName: Huga, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      m_Names: A, B
+      m_IsAll: 0
+    - m_TypeName: Huga, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      m_Names: C
+      m_IsAll: 0
+    - m_TypeName: Huga, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      m_Names: -1
+      m_IsAll: 1
+    m_Values:
+    - {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
